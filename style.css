@@ -1,0 +1,40 @@
+*{
+    
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: black;
+    width: 100%;
+    min-height: 100px;
+    
+}
+.content_wrapper{}
+.left_sidebar{
+    background-color: red;
+    min-height: 550px;
+    width: 25%;
+    float: left;
+}
+.content{
+    background-color: green;
+    min-height: 550px;
+    width: 50%; 
+    float: left;
+    
+}
+.right_sidebar{
+  background-color:blue;
+    width: 25%;
+    min-height: 550px;
+    float: right;
+    
+}
+.footer{
+    width:100%;
+    background-color: bisque;
+    min-height: 100px;
+    clear: both;
+    
+}
